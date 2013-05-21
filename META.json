@@ -53,5 +53,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Cside/Time-Format-MySQL/issues"
+      },
+      "homepage" : "https://github.com/Cside/Time-Format-MySQL",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/Cside/Time-Format-MySQL.git",
+         "web" : "https://github.com/Cside/Time-Format-MySQL"
+      }
+   },
    "version" : "0.01"
 }
