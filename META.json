@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "provides from_unixtime() and unix_timestamp()",
    "author" : [
       "Hiroki Honda <cside.story@gmail.com>"
    ],
@@ -42,6 +42,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Time::Piece" : "0",
             "perl" : "5.008005"
          }
       },
