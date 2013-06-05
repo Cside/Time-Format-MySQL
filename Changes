@@ -2,6 +2,8 @@ Revision history for Perl extension Time-Format-MySQL
 
 {{$NEXT}}
 
+0.03 2013-06-05T12:20:59Z
+
     - add format option
 
 0.02 2013-05-27T01:16:16Z

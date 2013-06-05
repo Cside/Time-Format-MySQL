@@ -49,6 +49,7 @@
       },
       "test" : {
          "requires" : {
+            "Test::Exception" : "0",
             "Test::More" : "0.98"
          }
       }
@@ -65,5 +66,5 @@
          "web" : "https://github.com/Cside/Time-Format-MySQL"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
